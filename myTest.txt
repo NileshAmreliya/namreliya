@@ -2,8 +2,8 @@ Hi Mr Nilesh Amreliya, How are you?, tet my merge command
 
 Thanks
 
-<<<<<<< HEAD
+
 F1
 =======
 m1
->>>>>>> 05caf8721a29fb03847e1198a58b37e37aff34c2
+
